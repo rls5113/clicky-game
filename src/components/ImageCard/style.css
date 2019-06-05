@@ -1,0 +1,19 @@
+.card {
+  background: #207431;
+  height: 200px;
+  position: relative;
+  width: 200px;
+}
+
+.card > .img-container {
+  /* height: 60%; */
+  overflow: hidden;
+  text-align: center;
+  background:#207431;
+  margin: 20px;
+}
+.card > .img-container > img {
+  margin-left: auto;
+  width: 125px;
+}
+
